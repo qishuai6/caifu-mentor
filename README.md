@@ -135,3 +135,7 @@ caifu-mentor/
 ## License
 
 [MIT](./LICENSE) (applies to the curation and original writing in this project; quoted material remains with its original author)
+
+## 更新日志
+
+- **2026-10-10** 项目发布：把《财富自由之路》50 个概念固化成 AI 校对技能——四段式校对 + 20 概念卡 + 18 场景剧本 + 50 章速查。
